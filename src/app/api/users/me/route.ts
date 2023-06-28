@@ -1,4 +1,4 @@
-export const dynamic = "forced-dynamic";
+export const dynamic = "force-dynamic";
 
 import { validateTokenAndGetUserId } from "@/helpers/tokenValidation";
 import { NextResponse, NextRequest } from "next/server";
